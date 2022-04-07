@@ -1,0 +1,12 @@
+body{
+	background-color: #B5CBB7;
+}
+h1 {
+	color: #2A324B;
+	font-family: "Noto Serif", serif;
+	font-size: 60px;
+}
+p, li, a {
+	font-family: "Noto Serif", san-serif;
+	color: #OF4C5C;
+}
